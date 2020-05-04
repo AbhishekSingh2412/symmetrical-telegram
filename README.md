@@ -1,2 +1,1 @@
 # symmetrical-telegram
-Noob
